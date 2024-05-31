@@ -32,15 +32,21 @@ I'm Roman, a passionate front-end developer focused on crafting beautiful and ef
 
 🏆 Complete React Developer Course by ZTM
 
+<br/>
 <!--
-
 ## 🚀 Current projects & learnings
 - Working on [Project Name]
 - Learning [New Skill/Technology]
 - Building [Product/Tool]
 
+<br/>
+-->
+
 ## 📊 Some stats:
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=cd-roman)](https://git.io/streak-stats)
+
+<!--
 <img align="left" alt="Roman's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd-roman&layout=compact" />
 -->
 
