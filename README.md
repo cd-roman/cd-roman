@@ -2,7 +2,7 @@
 
 I'm Roman, a passionate front-end developer focused on crafting beautiful and efficient user interfaces. Proficient in a wide range of modern web technologies, including React, JavaScript, and CSS, I am dedicated to building responsive, user-centric applications. Always eager to explore new tools and techniques, I strive to blend aesthetic design with functional programming to deliver seamless user experiences.
 
-Top technologies that I use:
+## ⚙️ Top technologies and tools I use:
 
 ![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto)
@@ -11,7 +11,28 @@ Top technologies that I use:
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
 
+<br/>
 
+<details>
+  <summary>More details about me</summary>
+
+## 👨‍💻 Things that helped me to grow professionally:
+
+🏆 Complete Web Development Bootcamp by App Brewery
+
+🏆 Google UX Design Certificate Program by Google
+
+🏆 Professional Scrum Master Certification by Scrum.org
+
+🏆 Complete React Developer Course by ZTM
+
+<!--
+## 📊 Some stats:
+
+<img align="left" alt="Roman's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cd-roman&layout=compact" />
+-->
+
+</details>
 
 <!--
 **cd-roman/cd-roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
