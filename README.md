@@ -44,10 +44,11 @@ I'm Roman, a passionate front-end developer focused on crafting beautiful and ef
 
 ## 📊 Some stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cd-roman)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cd-roman)](https://git.io/streak-stats)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-roman&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cd-roman&layout=compact)
 -->
 
 </details>
