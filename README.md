@@ -24,7 +24,9 @@ I'm Roman, a passionate front-end developer focused on crafting beautiful and ef
 
 ## 👨‍💻 Things that helped me to grow professionally:
 
-🏆 Complete Web Development Bootcamp by App Brewery
+🏆 The Complete Web Development Bootcamp by App Brewery
+
+🏆 The Complete JavaScript Course by Jonas Schmedtmann
 
 🏆 Google UX Design Certificate Program by Google
 
