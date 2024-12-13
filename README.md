@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Roman, a passionate front-end developer focused on crafting beautiful and efficient user interfaces. Proficient in a wide range of modern web technologies, including React, JavaScript, and CSS, I am dedicated to building responsive, user-centric applications. Always eager to explore new tools and techniques, I strive to blend aesthetic design with functional programming to deliver seamless user experiences.
+I'm a passionate web designer and front-end developer focused on crafting beautiful and efficient user interfaces while building engaging UX. Proficient in a wide range of modern web technologies, including but not limited to React, JavaScript, TypeScript, and CSS, I am dedicated to building responsive, user-centric websites and applications. My approach combines aesthetic design with the best programming practices to deliver seamless user experiences.
   
 ## ⚙️ Top technologies and tools I use:
 
