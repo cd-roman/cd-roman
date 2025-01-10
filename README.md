@@ -34,6 +34,8 @@ I'm a passionate front-end developer focused on crafting beautiful and efficient
 
 🏆 Complete React Developer Course by ZTM
 
+🏆 NodeJS - The Complete Guide by Academind and Maximilian Schwarzmüller
+
 <br/>
 <!--
 ## 🚀 Current projects & learnings
