@@ -2,7 +2,7 @@
 
 I'm a passionate front-end developer focused on crafting beautiful and efficient user interfaces while building engaging UX. Proficient in a wide range of modern web technologies, including but not limited to React, JavaScript, TypeScript, and CSS, I am dedicated to building responsive, user-centric websites and applications. My approach combines aesthetic design with the best programming practices to deliver seamless user experiences.
   
-## ⚙️ Top technologies and tools I use:
+## ⚙️ Technologies and tools I use:
 
 ![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto)
@@ -22,7 +22,7 @@ I'm a passionate front-end developer focused on crafting beautiful and efficient
 <details>
   <summary>More details about me</summary>
 
-## 👨‍💻 Things that helped me to grow professionally:
+## 👨‍💻 Resources that helped me to grow professionally:
 
 🏆 The Complete Web Development Bootcamp by App Brewery
 
@@ -52,6 +52,7 @@ I'm a passionate front-end developer focused on crafting beautiful and efficient
 
 <!--
 ![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=cd-roman&theme=algolia&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-roman&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cd-roman&layout=compact)
