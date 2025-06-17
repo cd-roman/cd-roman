@@ -4,17 +4,22 @@ I'm a passionate front-end developer focused on crafting beautiful and efficient
   
 ## ⚙️ Technologies and tools I use:
 
-![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/SCSS%2FSass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/tailwind-%2306B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/styled_components-%23DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Next.JS-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Postgres-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Supabase-%233FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/cypress-%2369D3A7?style=for-the-badge&logo=cypress&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
