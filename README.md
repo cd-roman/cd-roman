@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a passionate front-end developer focused on crafting beautiful and efficient user interfaces while building engaging UX. Proficient in a wide range of modern web technologies, including but not limited to React, JavaScript, TypeScript, and CSS, I am dedicated to building responsive, user-centric websites and applications. My approach combines aesthetic design with the best programming practices to deliver seamless user experiences.
+I’m a front-end-first full-stack developer who loves turning ideas into polished solutions. On the UI side, I create responsive, accessible interfaces using React, TypeScript, and modern CSS. On the back end, I build robust APIs with Node.js / Express and connect them to SQL / PostgreSQL databases.
+
+My background in UX and web design, combined with years of project management experience, enables me to own features end-to-end: from sketching flows and wireframes to shipping complete solutions. I focus on clear design, clean code, and seamless user experiences.
   
 ## ⚙️ Technologies and tools I use:
 
